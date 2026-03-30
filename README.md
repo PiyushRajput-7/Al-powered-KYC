@@ -1,4 +1,6 @@
 AI-Powered KYC & AML Compliance System
+
+
 An end-to-end AI system for identity document verification, address validation, and fraud detection for BFSI (Banking, Financial Services, and Insurance) workflows. This project leverages Computer Vision, NLP, and a robust MERN stack backend to automate KYC compliance.
 Features:
 User Authentication: Secure registration and login using JWT and Bcrypt.
